@@ -1,0 +1,37 @@
+[
+    {
+        "file_name": "example1_processed.txt",
+        "text": "Hello, World!",
+        "text_processed": "hELLO, wORLD!",
+        "file_size": 13,
+        "last_change_time": "2024-08-24 22:30:06"
+    },
+    {
+        "file_name": "example2_processed.txt",
+        "text": "Привет, мир!",
+        "text_processed": "пРИВЕТ, МИР!",
+        "file_size": 21,
+        "last_change_time": "2024-08-24 22:30:06"
+    },
+    {
+        "file_name": "example3_processed.txt",
+        "text": "¡Hola mundo!",
+        "text_processed": "¡hOLA MUNDO!",
+        "file_size": 12,
+        "last_change_time": "2024-08-24 22:30:06"
+    },
+    {
+        "file_name": "example4_processed.txt",
+        "text": "Hola mundo!",
+        "text_processed": "hOLA MUNDO!",
+        "file_size": 11,
+        "last_change_time": "2024-08-24 22:30:06"
+    },
+    {
+        "file_name": "example5_processed.txt",
+        "text": "Hello, World",
+        "text_processed": "hELLO, wORLD",
+        "file_size": 12,
+        "last_change_time": "2024-08-24 22:30:06"
+    }
+]
